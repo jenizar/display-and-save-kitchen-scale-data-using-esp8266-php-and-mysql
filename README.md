@@ -5,7 +5,13 @@ materials:
 
 digital kitchen scale custom, esp8266, HX711 load cell amplifier, psu 5v/3A, jumper cable. 
 
-![alt text]()
+![alt text](https://github.com/jenizar/display-and-save-kitchen-scale-data-using-esp8266-php-and-mysql/blob/main/Screenshot/esp8266_1.jpg)
+
+![alt text](https://github.com/jenizar/display-and-save-kitchen-scale-data-using-esp8266-php-and-mysql/blob/main/Screenshot/esp8266_2.jpg)
+
+![alt text](https://github.com/jenizar/display-and-save-kitchen-scale-data-using-esp8266-php-and-mysql/blob/main/Screenshot/esp8266_3.jpg)
+
+![alt text](https://github.com/jenizar/display-and-save-kitchen-scale-data-using-esp8266-php-and-mysql/blob/main/Screenshot/esp8266_4.jpg)
 
 VCC&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;5v, 
 
